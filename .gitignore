@@ -1,0 +1,5 @@
+.freebuff/
+.vercel/
+node_modules/
+*-preview.png
+*-final.png
